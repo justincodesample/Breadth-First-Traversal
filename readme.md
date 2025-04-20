@@ -1,4 +1,7 @@
+Below are the graphs used in the program.
+
 weighted
+```
       A
      / \
     B   C
@@ -10,8 +13,9 @@ F   G   H   I
           J
            \
             K
-
+```
 unweighted
+```
         A
        / \
       B   C
@@ -21,3 +25,4 @@ unweighted
   G       H   I
  /           \
 J             K
+```
